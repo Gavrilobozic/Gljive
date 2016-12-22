@@ -1,0 +1,28 @@
+#kontakt_artikl {
+	background-color: white;
+	margin: 2% 10%;
+	border-radius: 25px;
+    border: 2px solid brown;
+}
+#licna_slika {
+	width: 200px;
+	height: 200px;
+	border: none !important;
+	float: right;
+	border-radius: 50%;
+    margin: 0% 11% 1% 0%;
+}
+#kontakt_text {
+	    padding: 5%;
+	    margin-top: 3%;
+}
+#zaglavlje {
+	padding: 3% 0% 0%;
+}
+
+#kontakt {
+	text-decoration: underline;
+}
+#naslov {
+	padding: 3% 24.5% 0% 0%;
+}
